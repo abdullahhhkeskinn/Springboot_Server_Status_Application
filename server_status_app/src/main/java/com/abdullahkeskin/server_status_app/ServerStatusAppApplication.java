@@ -1,4 +1,4 @@
-package com.abdullahhhkeskinn.server_status_app;
+package com.abdullahkeskin.server_status_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
